@@ -10,8 +10,16 @@
     "type": "git",
     "url": "https://github.com/aniltallam/fasak.git"
   },
+  "keywords": [
+    "fasak",
+    "utils",
+    "utilities",
+    "tools",
+    "helper",
+    "helpers"
+  ],
   "author": "aniltallam@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/aniltallam/fasak/issues"
   },
