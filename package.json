@@ -1,0 +1,19 @@
+{
+  "name": "fasak",
+  "version": "1.0.0",
+  "description": "Javascript utils.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aniltallam/fasak.git"
+  },
+  "author": "aniltallam@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniltallam/fasak/issues"
+  },
+  "homepage": "https://github.com/aniltallam/fasak"
+}
